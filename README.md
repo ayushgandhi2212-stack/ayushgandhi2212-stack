@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Gandhi
 
-<!--
-**ayushgandhi2212-stack/ayushgandhi2212-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 MCA Student at Parul University
+- 💼 Looking for .NET / PHP Internship
+- 🌱 Currently learning ASP.NET MVC, .NET and SQL Server
+- 📍 Vadodara, Gujarat, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- C
+- C#
+- Java
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- ASP.NET MVC
+- ASP.NET Core
+- SQL Server
+- MySQL
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Hiring Management System
+- Physio Clinic Management System
+- Portfolio Website
+
+## 📫 Connect with Me
+
+📧 Email: **ayushgandhi2212@gmail.com**
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/ayushgandhiii
+
+🌐 Portfolio:  
+https://ayushgandhi-portfolio.netlify.app
